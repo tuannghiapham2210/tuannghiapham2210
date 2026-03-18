@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 * Currently an 18-year-old Computer Science Undergraduate at VNU University of Engineering and Technology (first year)
-* I'm new to the field, currently taking courses in Advanced Programming and many more.
+* I'm new to the field, currently taking courses in Advanced Programming and DSA, Linear Algebra, Discrete Math, etc.
 * I speak Vietnamese and English fluently
 
 <br>
@@ -35,5 +35,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuannghiapham2210&theme=radical&hide_progress=false" height="195" alt="Top Languages Card" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tuannghiapham2210&theme=radical&show_icons=true" height="195" alt="GitHub Stats Card" />
+  <img src="https://streak-stats.demolab.com/?user=tuannghiapham2210&theme=radical" height="195" alt="GitHub Streak Card" />
 </div>
